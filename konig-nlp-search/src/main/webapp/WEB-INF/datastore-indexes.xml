@@ -1,0 +1,9 @@
+<datastore-indexes autoGenerate="false">
+	<datastore-index kind="Concept" ancestor="true">
+		<property name="stem" direction="asc"/>
+	</datastore-index>
+	<datastore-index kind="Concept" ancestor="true">
+		<property name="label" direction="asc"/>
+	</datastore-index>
+</datastore-indexes>
+

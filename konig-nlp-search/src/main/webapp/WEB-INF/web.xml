@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+         version="2.5">
+         
+  	<servlet>
+			<servlet-name>SchemeUploadJsp</servlet-name>
+			<jsp-file>/WEB-INF/jsp/upload.jsp</jsp-file>
+		</servlet>
+		
+		<servlet>
+			<servlet-name>SearchJsp</servlet-name>
+			<jsp-file>/WEB-INF/jsp/search.jsp</jsp-file>
+		</servlet>
+		
+		<servlet>
+			<servlet-name>SearchResultsJsp</servlet-name>
+			<jsp-file>/WEB-INF/jsp/searchResults.jsp</jsp-file>
+		</servlet>
+		
+  	<servlet>
+			<servlet-name>DoUploadJsp</servlet-name>
+			<jsp-file>/WEB-INF/jsp/doUpload.jsp</jsp-file>
+		</servlet>
+		
+		
+		<servlet-mapping>
+			<servlet-name>SchemeUploadJsp</servlet-name>
+			<url-pattern>/upload</url-pattern>
+		</servlet-mapping>
+		
+		<servlet-mapping>
+			<servlet-name>SearchJsp</servlet-name>
+			<url-pattern>/search</url-pattern>
+		</servlet-mapping>
+		
+		<servlet-mapping>
+			<servlet-name>SearchResultsJsp</servlet-name>
+			<url-pattern>/searchResults</url-pattern>
+		</servlet-mapping>
+		
+		<servlet-mapping>
+			<servlet-name>DoUploadJsp</servlet-name>
+			<url-pattern>/doUpload</url-pattern>
+		</servlet-mapping>
+		
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+</web-app>

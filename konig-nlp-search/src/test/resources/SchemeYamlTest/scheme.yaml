@@ -1,0 +1,180 @@
+identifier: Test
+concepts:
+  -
+    identifier: access
+    type: Intent
+    altLabel:
+      - I juan to study
+      - I want to study
+      - expressions
+      - lesson number six
+      - grammaire
+      - lesson number two
+      - Show lesson
+      - Go for to lesson
+      - Go for lesson
+      - Take me for lesson
+      - Leave me to lesson
+      - I'm sending you
+      - sex ion
+      - sec shown
+      - I want see lesson
+      - I wanna study lesson
+      - let some
+      - sec shawn
+      - if verbs
+      - "%HESITATION lesson number four"
+      - grandma
+      - I'm grammar
+      - now verbs
+      - go to lesson one
+      - herbs
+      - go to the lesson one
+      - "%HESITATION vocabulary"
+      - conversation in trio
+      - let someone
+      - unless someone
+      - lesson one
+      - I want to start a lesson
+      - take me to lessen wind
+      - thirty five
+      - tend to lessen
+      - Take me to lesson two
+      - Take me to lesson one
+      - which lesson can I choose
+      - where Omar
+      - Graham are
+      - I grab mark
+      - I grammar
+      - verbs written
+      - I want to choose a lesson
+      - Sit lesson
+      - I would like to go to lesson
+      - Make the lesson
+      - Make lesson
+      - Sack shown
+      - Studying lesson
+      - Do lesson
+      - Can I go lesson
+      - Show me lesson
+      - I want to study lesson
+      - I want to see lesson
+      - Go to lesson
+      - Can you take me to lesson
+      - Can you show me lesson
+      - Can you show me
+      - Can I see lesson
+      - vocabulary
+      - I want to study lessen one
+      - Go to lessen
+      - Show me lessen
+      - what about study a lesson distill Millicent number and affection
+      - lesson three kinda
+      - I want to stay relaxed some to section the vocabulary
+      - lesson twenty one
+      - verbs
+      - lesson blaming for
+      - take me to lie someone I
+      - Let's someone
+      - Gou to leson
+      - Graham are
+      - let's son
+      - Take me to let's son
+  -
+    identifier: change
+    type: Intent
+    altLabel:
+      - Now
+      - Change lesson
+      - Can I go to another lesson?
+      - Can I study another section?
+      - Change section
+      - change
+  -
+    identifier: defining
+    type: Intent
+    altLabel:
+      - I'd like to translate
+      - Define the word
+      - What's the meaning of
+      - Translate the word
+      - Look up the word
+      - I want to define
+      - How can I say
+      - What does word mean
+      - What the translation of
+      - What's the definition of
+      - How should I say
+      - I want to know the word in English
+      - I want to find out what the word means
+      - I want to know the meaning of
+  -
+    identifier: help
+    type: Intent
+    altLabel:
+      - can you understand Japanese language it's like I don't got boarding call
+      - can you speak wrong because I'm trying to do that but you know
+      - Hey how can they help you what's wrong
+      - I need help here
+      - I need help
+      - Show me help options
+      - I don't know what do you do
+      - Ajuda
+      - What can you do?
+      - Comandos
+      - hi how can I help you can they help you well you can hope me
+  -
+    identifier: record
+    type: Intent
+    altLabel:
+      - for record my voice
+      - great because my voice
+      - record my voice
+      - Turn on the mic
+      - Turn on the microphone
+      - Record my voice
+      - Record me
+      - Record that
+      - Compare my voice to the audio
+      - court my voice
+      - I want you record me
+      - I recorded my voice
+  -
+    identifier: expressions
+    type: Section
+    altLabel:
+      - expression
+  -
+    identifier: express_yourself
+    type: Section
+    altLabel:
+      - express yourself
+  -
+    identifier: input
+    type: Section
+    altLabel:
+      - input
+  -
+    identifier: conversation_in_trio
+    type: Section
+    altLabel:
+      - conversation in trio
+  -
+    identifier: grammar
+    type: Section
+    altLabel:
+      - grammar
+  -
+    identifier: verbs
+    type: Section
+    altLabel:
+      - verbs
+  -
+    identifier: vocabulary
+    type: Section
+    altLabel:
+      - vocab
+      - vocabulary
+           
+      
+     
